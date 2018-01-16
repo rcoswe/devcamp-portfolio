@@ -1,23 +1,21 @@
 # Devcamp Portfolio Application
 
-Some content.
+> This is Ruby on Raila 5
 
-Things you may want to cover:
+### Features
+- Real time chat engine for comments
+- Blog
+- Portfolio
+- Drag and drop interface
 
-* Ruby version
+### Code Example
 
-* System dependencies
+```ruby
+def my_great_method
+  puts "here it is"
+end
+```
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```javascript
+alert('Hi there');
+```
