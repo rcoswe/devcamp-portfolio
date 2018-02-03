@@ -15,10 +15,10 @@ class PortfoliosController < ApplicationController
         format.html { redirect_to portfolios_path, notice: 'Your portfolio item is now live.' }
       else
         format.html { render :new }
-      end
+      end  
     end
   end
-
+ 
   def edit
     @portfolio_item = Portfolio.find(params[:id])
   end
